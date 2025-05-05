@@ -1,0 +1,4 @@
+name: Tempban-Api
+version: '${project.version}'
+main: net.zappygamingyt.tempbanapi.TempBan
+api-version: 1.19
